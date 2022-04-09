@@ -21,14 +21,14 @@ Group members:
 
 
 
-[live link ](https://11-ayaalsawa.github.io/Quiz_project/)
+[live link ](https://obadaalshafeey.github.io/project-2-Edit/)
 
 
-[Repo link ](https://github.com/11-ayaalsawa/Quiz_project)
+[Repo link ](https://github.com/obadaalshafeey/project-2-Edit)
 
 
 
-[github](https://github.com/11-ayaalsawa)
+[github](https://github.com/obadaalshafeey)
 
 
 [trello](https://trello.com/invite/b/JaunnpQr/7165cacf88640de3fa3efb630c1ebd2f/ota)
